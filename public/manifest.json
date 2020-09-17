@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "PWA Covid19",
+  "name": "Covid 19 PWA",
   "icons": [
     {
       "src": "favicon.ico",
